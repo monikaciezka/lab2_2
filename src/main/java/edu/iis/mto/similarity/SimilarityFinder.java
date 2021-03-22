@@ -2,6 +2,7 @@ package edu.iis.mto.similarity;
 
 import edu.iis.mto.searcher.SequenceSearcher;
 
+
 public class SimilarityFinder {
 
     private SequenceSearcher searcher;
